@@ -1,0 +1,60 @@
+#topDiv {
+    border: 3px solid black;
+    margin: 2% 2% 1.5% 2%;
+    padding: 1% 1%;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 1%;
+}
+
+.flex-container > div {
+    margin-right: 5%;
+}
+
+#midDiv {
+    border: 3px dotted grey;
+    margin: 1.5% 2% 1% 2%;
+}
+
+#bottDiv {
+    border: thin solid gray;
+    margin: 1.5% 20% 2% 20%;
+    box-shadow: 2px 2px 5px #ccc9c9;
+}
+
+#purpleBox {
+    background-color: purple;
+    margin-top: 4%;
+    padding: 6% 2%;
+}
+
+#greenBox {
+    background-color: green;
+    padding-right: 40%;
+}
+
+#skyCircle {
+    background-color: skyblue;
+    border-radius: 50%;
+    padding-right: 16%;
+}
+
+#postIt {
+    background-color: #f1edb8;
+    padding: 7.5% 15%;
+    margin: 5%;
+    box-shadow: 8px 8px 2px #303030;
+}
+
+#hello {
+    color: darkblue;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    padding: 20% 7.5%;
+}
+
