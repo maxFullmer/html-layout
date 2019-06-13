@@ -1,0 +1,40 @@
+footer {
+    margin: auto;
+    background-color: #202020;
+    padding-top: 10vh;
+    position: absolute;
+    width: 80%;
+    bottom: 0%;
+    left: 10%;
+    
+}
+
+aside {
+    background-color: #e0dcdc;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 80vh; 
+    position: relative;
+}
+
+h1 {
+    background-color: #504f4f;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    position: relative;
+    top: 0;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+main {
+    width: 80vw;
+    margin: auto;
+    text-align: center;
+}
