@@ -1,0 +1,46 @@
+nav {
+    background-color: lightgray;
+    padding: 4%;
+}
+
+div {
+    display: inline;
+    padding: 3% 4%;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container > section {
+    display: block;
+    padding: 5%;
+}
+
+.blue {
+   background-color: cornflowerblue; 
+}
+
+.turquoise {
+    background-color: turquoise; 
+}
+
+.mucus {
+    background-color: #77db59; 
+}
+
+.lemon {
+    background-color: rgb(228, 208, 34); 
+}
+
+#textCenter {
+    min-width: 90%;
+}
+
+p {
+    font-size: 2em;
+    text-align: left;
+    padding: 3%;
+}
+
